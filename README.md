@@ -1,2 +1,1 @@
-# royhirakp/frontendmentor-project1
- 
+# frontendmentor-p1
